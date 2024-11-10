@@ -14,4 +14,4 @@ if is_a_perfect_number(number):
                 print(f"{number}is a perfect number")
 else:
                print(f"{number} is not a perfect number")
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
