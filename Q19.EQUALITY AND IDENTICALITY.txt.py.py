@@ -6,4 +6,4 @@ print('id(a)', id(a), 'id(b)', id(b), 'id(c)', id(c))
 a is b # output: True
 b is c # output: False
 # a and c are diffrent objects 
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
