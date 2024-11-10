@@ -32,4 +32,3 @@ armstrong_numbers = find_armstrong_after_x(x, n)
 # Print the Armstrong numbers
 print(f"The first {n} Armstrong numbers after {x} are:", armstrong_numbers)
 print("THIS PROGRAM IS WRITEN BY VAANI, ERP:- 162")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
