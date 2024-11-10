@@ -25,4 +25,4 @@ try:
     delete_user(123)
 except PermissionError as e:
     print(e)
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
