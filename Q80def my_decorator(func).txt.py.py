@@ -10,4 +10,4 @@ def say_hello():
     print("Hello!")
 
 say_hello()  # Call the decorated function
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
