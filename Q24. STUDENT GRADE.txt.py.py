@@ -57,4 +57,4 @@ elif marks >= 40:
 else:
     print("your grade is D \n YOU ARE FAIL")
 
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
