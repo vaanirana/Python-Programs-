@@ -12,4 +12,4 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("Alice")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
