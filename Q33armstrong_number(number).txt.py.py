@@ -11,4 +11,4 @@ if is_armstrong_number(number):
     print(f"{number} is an Armstrong number.")
 else:
     print(f"{number} is not an Armstrong number.")
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
