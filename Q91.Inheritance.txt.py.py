@@ -21,4 +21,4 @@ class Car(Vehicle):
 my_car = Car("Toyota", "Corolla", 2020, "Petrol")
 my_car.display_info()
 print("THIS PROGRAN IS WRITTEN BY VAANI, ERP:162")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+
