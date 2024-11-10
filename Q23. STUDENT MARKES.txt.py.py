@@ -44,4 +44,3 @@ print("-------------------------------------------------------------------------
 total =  eng + math + sci + ssc + comp 
 print (f"Total \t\t 500 \t\t {total}")
 print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
