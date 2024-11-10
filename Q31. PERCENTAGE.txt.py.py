@@ -22,4 +22,3 @@ discount_percentage, final_bill = calculate_discount_and_final_bill(bill_amount)
 print(f"Discount Percentage: {discount_percentage}%")
 print(f"Final Bill Amount: ₹{final_bill:.2f}")
 print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
