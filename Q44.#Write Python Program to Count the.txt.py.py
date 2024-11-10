@@ -29,4 +29,3 @@ def main():
 if __name__ == "__main__":
     main()
 print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
