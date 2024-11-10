@@ -69,4 +69,5 @@ for i in range(1, rows + 1):
 
     # lower part of diamond
 for i in range(rows - 1, 0, -1):
-    print(' ' * (rows - i) + '*' * (2 * i - 1))THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+    print(' ' * (rows - i) + '*' * (2 * i - 1))
+    print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
