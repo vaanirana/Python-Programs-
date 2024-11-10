@@ -17,4 +17,4 @@ else:
 
    print (f" & {number }/10: {int (result)}")
 
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
