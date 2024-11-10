@@ -13,4 +13,4 @@ def main():
 # Ensures the main function runs when the script is executed directly
 if __name__ == "__main__":
     main()
-print("THIS PROGRAM IS WRITTEN BY KAUSHAL, ERP:- 154")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
