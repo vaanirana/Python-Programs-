@@ -27,4 +27,4 @@ print(joined_text)
 print(replaced_text)
 print(index)
 print(count)
-print("THIS PROGRAM IS WRITTEN BY KAUSHAL, ERP:- 154")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
