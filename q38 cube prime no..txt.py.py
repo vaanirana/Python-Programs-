@@ -27,4 +27,4 @@ start_range =1
 end_range = 5
 result = sum_of_cubes_of_primes(start_range, end_range)
 print(f"The sum of the cubes of all prime numbers between {start_range} and {end_range} is: {result}")
-print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
