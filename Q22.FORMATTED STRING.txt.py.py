@@ -4,6 +4,3 @@ name = "Vaani"
 age = 19
 print(f"Name : {name} : Age : {age}")
 print("THOSE PROGRAM IS WRITTEN BY VAANI, ERP:- 162")
-
-
-THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
