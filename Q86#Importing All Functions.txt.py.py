@@ -4,4 +4,5 @@
 # main.py
 from math_utils import *
 result = subtract(10, 5)
-print(result) # Output: 5THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print(result) # Output: 5
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
