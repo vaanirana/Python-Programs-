@@ -4,4 +4,4 @@ def greet(name):
 
 result = greet("Alice")
 print(result)  # Output: None
-print("76.THIS PROGRAM IS WRITTEN BY DEEPANSHU, ERP:-005")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
