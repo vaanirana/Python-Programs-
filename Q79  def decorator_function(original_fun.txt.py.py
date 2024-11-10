@@ -32,4 +32,4 @@ def greet(name):
     print(f"Hello, {name}!")
 
 greet("Alice")
-print("78.THIS PROGRAM IS WRITTEN BY DEEPANSHU, ERP:-005")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
