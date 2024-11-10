@@ -32,4 +32,4 @@ print_info(name="Alice", age=30, city="New York")
 # name: Alice
 # age: 30
 # city: New York
-print("THIS PROGRAM IS WRITTEN BY DEEPANSHU, ERP:-005")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162")
