@@ -16,4 +16,4 @@ end_range = int(input("Enter the end of the range:"))
 armstrong_numbers = find_armstrong_in_range(start_range, end_range)
 print("Armstrong numbers in the range:", armstrong_numbers)
 print("Total count of Armstrong numbers:", len(armstrong_numbers))
-print("THIS PROGRAM IS WRITTEN BY VAANI,  ERP:-164")THIS PROGRAM IS WRITTEN BY VAANI, ERP:-162
+print("THIS PROGRAM IS WRITTEN BY VAANI,  ERP:-164")
